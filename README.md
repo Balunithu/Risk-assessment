@@ -1,6 +1,4 @@
-# Risk-# EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
-# Name: ASHIKA TR
-# Reg no: 212224220011
+# EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
 - AWS Elastic Block Store (EBS)
